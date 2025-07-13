@@ -15,6 +15,7 @@
                     <li><a href="http://localhost/Project(Github)/Student-Management-System/home">Home</a></li>
                     <li><a href="http://localhost/Project(Github)/Student-Management-System/about">About Us</a></li>
                     <li><a href="http://localhost/Project(Github)/Student-Management-System/contact">Contact Us</a></li>
+                    <li><a href="http://localhost/Project(Github)/Student-Management-System/register">Register</a></li>
                     <li><a href="http://localhost/Project(Github)/Student-Management-System/home">Login</a></li>
                 </ul>
             </nav>
