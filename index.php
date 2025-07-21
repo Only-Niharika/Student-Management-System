@@ -1,15 +1,16 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <title>Student Management System</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div>
+    <header>
         <?php include_once('header.php'); ?>
-    </div>
+    </header>
 
     <div class="hero_section">
-        <!-- Optional: Hero content goes here -->
+        <!-- Your hero content here -->
     </div>
 </body>
 </html>
