@@ -27,3 +27,13 @@
 .header-links a:hover {
     color: chocolate;
 }
+
+/* hero_section_of_home */
+
+.hero_section {
+    background-image: url('image/school.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 0px;
+}
