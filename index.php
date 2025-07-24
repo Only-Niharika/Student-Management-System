@@ -10,7 +10,11 @@
     </header>
 
     <div class="hero_section">
-        <!-- Your hero content here -->
+        <div class="overlay"></div>
+        <div class="content">
+            <h1>Welcome to Our School</h1>
+            <p>Building the future one student at a time.</p>
+        </div>
     </div>
 </body>
 </html>
