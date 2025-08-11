@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Student Management System</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Style.css">
 </head>
 <body>
     <header>
@@ -17,7 +17,17 @@
         </div>
     </div>
 
-    <div class="Section_1">
+<!-- Our Vision -->
+    <div class= "Section_1">
+         <h2> Our Vision </h2>
+        <p>At EWS, we dream big — and we want our students to dream even bigger.
+We’re building a vibrant learning community where curiosity sparks, creativity flows, and critical thinking thrives.
+Our mission is simple: to empower every learner to discover their passions, grow with confidence, and step into the world as compassionate leaders and responsible global citizens.
+With innovative teaching, personalized guidance, and endless opportunities, we’re here to inspire a lifetime of learning — and a future full of possibilities.</p>
+    </div>
+
+<!-- Features -->
+    <div class="Section_2">
         <span>Features</span>
         <h2>One Platform Many Course </h2>
         <div class="icon_box">
