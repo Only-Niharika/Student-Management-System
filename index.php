@@ -29,27 +29,54 @@ With innovative teaching, personalized guidance, and endless opportunities, we�
 <!-- Features -->
     <div class="Section_2">
         <span>Features</span>
-        <h2>One Platform Many Course </h2>
+        <h2>Why Us?</h2>
         <div class="icon_box">
         <div class="icon_box_1">
-            <img src="image/man.png" height="60px" width="60px">
-            <h3>Exclusive Advisor</h3>
-            <p>Lorem ipsum dolor amet consectetur</p>
+            <!-- <img src="image/man.png" height="60px" width="60px"> -->
+            <h3>Minimal Class Strength</h3>
+            <p>So every student receives personal attention and better learning outcomes.</p>
         </div>
         <div class="icon_box_1">
-            <img src="image/man.png" height="60px" width="60px">
-            <h3>Exclusive Advisor</h3>
-            <p>Lorem ipsum dolor amet consectetur</p>
+            <!-- <img src="image/man.png" height="60px" width="60px"> -->
+            <h3>PTMs on Regular Intervals</h3>
+            <p>Keep parents informed and involved in their child’s progress.</p>
         </div>
         <div class="icon_box_1">
-            <img src="image/man.png" height="60px" width="60px">
-            <h3>Exclusive Advisor</h3>
-            <p>Lorem ipsum dolor amet consectetur</p>
+            <!-- <img src="image/man.png" height="60px" width="60px"> -->
+            <h3>Weekly Tests</h3>
+            <p>To boost student confidence and reinforce strong exam preparation.</p>
         </div>
         <div class="icon_box_1">
+            <!-- <img src="image/man.png" height="60px" width="60px"> -->
+            <h3>Focuses Non-curricular activities</h3>
+            <p>For all-round growth of students.</p>
+        </div>
+        </div>
+    </div>
+
+<!-- Our Achievers -->
+    <div class="Section_3">
+        <h2>Our Achievers</h2>
+        <div class="img_box">
+        <div class="img_box_1">
             <img src="image/man.png" height="60px" width="60px">
-            <h3>Exclusive Advisor</h3>
-            <p>Lorem ipsum dolor amet consectetur</p>
+            <h3>Minimal Class Strength</h3>
+            <p>So every student receives personal attention and better learning outcomes.</p>
+        </div>
+        <div class="img_box_1">
+            <img src="image/man.png" height="60px" width="60px">
+            <h3>PTMs on Regular Intervals</h3>
+            <p>Keep parents informed and involved in their child’s progress.</p>
+        </div>
+        <div class="img_box_1">
+            <img src="image/man.png" height="60px" width="60px">
+            <h3>Weekly Tests</h3>
+            <p>To boost student confidence and reinforce strong exam preparation.</p>
+        </div>
+        <div class="img_box_1">
+            <img src="image/man.png" height="60px" width="60px">
+            <h3>Focuses Non-curricular activities</h3>
+            <p>For all-round growth of students.</p>
         </div>
         </div>
     </div>

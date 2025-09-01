@@ -104,9 +104,10 @@ span{
 
 /* Section :- Features */
 .Section_2{
-    Padding-top:70px;
+    padding:70px;
     margin-top:70px;
-    background-color:#e4a97f
+    margin-bottom:50px;
+    background-color:#e4a97f;
 }
 
 .icon_box {
@@ -132,5 +133,20 @@ span{
     transition: all 0.5s ease;
 }
 
+/* Section :- Our Achievers */
 
+.img_box {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  padding: 20px;
+  gap: 20px;
+}
 
+.img_box_1 {
+  width: 33%; /* or 33% minus margins */
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  border:2px solid #8b4817;
+}
