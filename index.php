@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Student Management System</title>
-    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
@@ -54,31 +54,33 @@ With innovative teaching, personalized guidance, and endless opportunities, weâ€
         </div>
     </div>
 
-<!-- Our Achievers -->
+<!-- Curricular Achievers -->
     <div class="Section_3">
+        <span>Curricular Stars</span>
         <h2>Our Achievers</h2>
         <div class="img_box">
         <div class="img_box_1">
             <img src="image/man.png" height="60px" width="60px">
-            <h3>Minimal Class Strength</h3>
-            <p>So every student receives personal attention and better learning outcomes.</p>
+            <h3><b>Anant Sharma</b>,5<sup>th</sup> Class</h3>
+            <p>Scored <b>96%</b> in all <br>subjects</p>
         </div>
         <div class="img_box_1">
             <img src="image/man.png" height="60px" width="60px">
-            <h3>PTMs on Regular Intervals</h3>
-            <p>Keep parents informed and involved in their childâ€™s progress.</p>
+            <h3><b>Navjot Kaur</b>,6<sup>th</sup> Class</h3>
+            <p>Scored <b>98.66%</b> in all <br>subjects</p>
         </div>
         <div class="img_box_1">
             <img src="image/man.png" height="60px" width="60px">
-            <h3>Weekly Tests</h3>
-            <p>To boost student confidence and reinforce strong exam preparation.</p>
+            <h3><b>Manan Thakur</b>,10<sup>th</sup> Class</h3>
+            <p>Scored <b>95%</b> in all <br>subjects</p>
         </div>
         <div class="img_box_1">
             <img src="image/man.png" height="60px" width="60px">
-            <h3>Focuses Non-curricular activities</h3>
-            <p>For all-round growth of students.</p>
+            <h3><b>Rohini Mishra</b>,12<sup>th</sup> Class</h3>
+            <p>Scored <b>97.77%</b> in all <br>subjects</p>
         </div>
         </div>
+        <span class="see_more_link"><a href="#" >See More</a></span>
     </div>
 </body>
 </html>

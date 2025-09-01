@@ -21,6 +21,12 @@ span{
     font-family: cursive;
 }
 
+.see_more_link{
+    float:right; 
+    color:chocolate; 
+    margin-right: 20px; 
+    font-size: 18px;
+}
 /* Header */
 
 .header {
@@ -104,7 +110,7 @@ span{
 
 /* Section :- Features */
 .Section_2{
-    padding:70px;
+    padding:70px 0px;
     margin-top:70px;
     margin-bottom:50px;
     background-color:#e4a97f;
@@ -135,6 +141,11 @@ span{
 
 /* Section :- Our Achievers */
 
+.Section_3 {
+  padding: 50px 0px;
+  background-color: #f9f9f9;
+}
+
 .img_box {
   display: flex;
   align-items: center;
@@ -144,9 +155,10 @@ span{
 }
 
 .img_box_1 {
-  width: 33%; /* or 33% minus margins */
+  width: 30%; /* or 33% minus margins */
   padding: 20px;
   box-sizing: border-box;
   text-align: center;
+  border-radius: 10px;
   border:2px solid #8b4817;
-}
+} 
