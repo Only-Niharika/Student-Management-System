@@ -28,7 +28,7 @@ With innovative teaching, personalized guidance, and endless opportunities, weâ€
 
 <!-- Features -->
     <div class="Section_2">
-        <span>Features</span>
+        <span style="color:white;">Features</span>
         <h2>Why Us?</h2>
         <div class="icon_box">
         <div class="icon_box_1">
@@ -56,7 +56,7 @@ With innovative teaching, personalized guidance, and endless opportunities, weâ€
 
 <!-- Curricular Achievers -->
     <div class="Section_3">
-        <span>Curricular Stars</span>
+        <span>High Scorers</span>
         <h2>Our Achievers</h2>
         <div class="img_box">
         <div class="img_box_1">
@@ -80,7 +80,15 @@ With innovative teaching, personalized guidance, and endless opportunities, weâ€
             <p>Scored <b>97.77%</b> in all <br>subjects</p>
         </div>
         </div>
-        <span class="see_more_link"><a href="#" >See More</a></span>
+        <span ><a href="#" class="see_more_link" >See More</a></span>
     </div>
+
+    <!-- Co-Curricular Achievers -->
+    <div class="Section_4">
+        <span style="color:white;">Creative Stars</span>
+        <h2>Our Achievers</h2>
+        
+        <span ><a href="#" class="see_more_link" style="color:white;">See More</a></span>
+    
 </body>
 </html>

@@ -162,3 +162,12 @@ span{
   border-radius: 10px;
   border:2px solid #8b4817;
 } 
+
+/* Section :- Our Co-curricular Achievers */
+
+.Section_4 {
+    padding:70px 0px;
+    margin-top:70px;
+    margin-bottom:50px;
+    background-color:#e4a97f;
+}
